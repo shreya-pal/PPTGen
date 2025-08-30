@@ -19,7 +19,7 @@ PPTGen is a lightweight web app that lets you paste long-form text (markdown, pr
 
 -----
 
-## 🖥️ Usage
+## Usage
 
 1.  Paste your text or markdown into the app.
 2.  (Optional) Add a one-line guidance, such as “make it a research summary”.
@@ -29,7 +29,7 @@ PPTGen is a lightweight web app that lets you paste long-form text (markdown, pr
 
 -----
 
-## 🛠️ Architecture
+## Architecture
 
   * **Frontend**:
 
@@ -46,6 +46,6 @@ PPTGen is a lightweight web app that lets you paste long-form text (markdown, pr
 
 -----
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License, making it free to use, modify, and share.
